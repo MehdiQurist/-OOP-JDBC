@@ -1,0 +1,15 @@
+DAO\ConnectionDatabase.class
+com\mycompany\task\CustomersInterface.class
+com\mycompany\task\oop\jdbc\ICrudRepository.class
+com\mycompany\task\oop\jdbc\OrdersInterface.class
+com\mycompany\task\oop\jdbc\DataBaseManager.class
+com\mycompany\task\oop\jdbc\OrderDetailInterface.class
+com\mycompany\main\Menu.class
+com\mycompany\task\oop\jdbc\Proqram.class
+beans\Customers.class
+main\Main.class
+beans\Product.class
+beans\OrderDetail.class
+com\mycompany\task\oop\jdbc\PraductInterface.class
+beans\Orders.class
+beans\Person.class
